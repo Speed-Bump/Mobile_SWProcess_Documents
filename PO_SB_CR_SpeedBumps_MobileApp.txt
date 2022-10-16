@@ -1,0 +1,145 @@
+﻿Customer Requirements[a]
+SpeedBumps Mobile Application
+ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+Table of Contents 
+ Document Status: ……………………………………………………………….1 Document History: ……………………………………………………………...1 Project Description: ……………………………………………………………. .2 Mapping Customer’s ID: …………………………………………………………3  
+
+
+Document Status: 
+Name 
+	PO_SB_CR_SpeedBumps_MobileApp
+	Version 
+	V1.1
+	Status 
+	Proposed
+	Author 
+	Marwa
+	Date 
+	[11-10-2022]
+	
+
+
+
+
+
+
+
+Document History:
+Version 
+	Author 
+	Date Change
+	1.0 
+	Marwa
+	[25-9-2022] Initial Creation
+	1.1
+	Marwa
+	          [11-10-2022] Editing the app’s features
+	
+
+
+
+Project Description: 
+
+
+Definition: 
+An application through which the user can be notified about the coming speed bumps on the road and the remaining distance between the car and the bump 
+Features: 
+* Users can choose between more than one business plan
+* Users can control the ride
+* Alerting the user with the coming speed bumps 
+* Asking for premissions  
+* Monitor HW device 
+* Technical Issues reporting
+
+
+Key Elements: 
+
+
+* Users can choose the ‘Basic” plan.
+* Users can choose the  “Premium” plan.
+                ●   The user can “start” ,”end” his ride
+                ●   The app alert the user with the coming bumps
+●   The app alert the user with the remaining distance till the bump
+●   The app save the bump’s location on the user’s GPS screen
+* Application needs user permission to use Bluetooth, location,..etc.
+* In “premium” plan the app ask the user for his permission to save the bumps on the ride
+* Application shall be notified by the embedded device’s issues and status.
+* Users can report any technical issue.
+
+
+
+
+
+
+
+
+Mapping Cutomers’s ID: 
+ ID Requirement 
+	Covers
+	
+
+PO_SB_ CR_SpeedBumps_MobileApp_ 001-V1.0
+
+
+	Users can choose the ‘Basic” plan.
+
+
+	PO_SB_ CR_SpeedBumps_MobileApp_ 002-V1.0 
+
+
+	Users can choose the  “Premium” plan.
+
+
+	PO_SB_ CR_SpeedBumps_MobileApp_ 003-V1.0
+
+
+	The user can “start”,”end” his ride
+
+
+
+
+	PO_SB_ CR_SpeedBumps_MobileApp_ 004-V1.0
+
+
+	The app alert the user with the coming bumps
+
+
+	PO_SB_ CR_SpeedBumps_MobileApp_ 005-V1.0 
+
+
+	  The app alert the user with the remaining distance till the bump
+
+
+	PO_SB_ CR_SpeedBumps_MobileApp _006-V1.0 
+
+
+	The app save the bump’s location on the user’s GPS screen
+
+
+	PO_SB_ CR_SpeedBumps_MobileApp_ 007-V1.0 
+
+
+	Application needs user permission to use Bluetooth, location,..etc.
+
+
+	PO_SB_ CR_SpeedBumps_MobileApp_ 008-V1.0 
+
+
+	In “premium” plan the app ask the user for his permission to save the bumps on the ride
+
+
+	PO_SB_ CR_SpeedBumps_MobileApp_ 009-V1.0 
+
+
+	Application shall be notified by the embedded device’s issues and status.
+
+
+	PO_SB_ CR_SpeedBumps_MobileApp_ 010-V1.0 
+
+
+	Users can report any technical issue.
+
+
+	
+
+[a]esraaabdelnaby613@gmail.com
